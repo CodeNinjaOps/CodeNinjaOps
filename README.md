@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello, I'm Rangarajan Konar!<br><br>I'm a DevOps Engineer passionate about streamlining workflows and optimizing infrastructure. Currently, I specialize in Python, Terraform, and Kubernetes, where I focus on automating deployments and managing scalable environments.<br><br>With hands-on experience in Bash scripting, ELK Stack (Elasticsearch, Logstash, Kibana), and Apache Kafka, I thrive on solving complex problems and improving system reliability. My approach combines robust coding practices with innovative solutions to enhance performance and scalability.<br><br>Feel free to explore my repositories and connect with me if you're interested in discussing DevOps practices, sharing insights, or collaborating on exciting projects!<br><br><br>
+Hello, I'm Rangarajan Konar!
+
+I'm a DevOps Engineer passionate about streamlining workflows and optimizing infrastructure. Currently, I specialize in Python, Terraform, Kubernetes, and CI/CD, where I focus on automating deployments and managing scalable environments.
+
+With hands-on experience in Bash scripting, ELK Stack (Elasticsearch, Logstash, Kibana), Apache Kafka, and continuous integration/continuous deployment (CI/CD) pipelines, I thrive on solving complex problems and improving system reliability. My approach combines robust coding practices with innovative solutions to enhance performance and scalability.
+
+Feel free to explore my repositories and connect with me if you're interested in discussing DevOps practices, sharing insights, or collaborating on exciting projects!<br><br><br>
 
 
 # 💻 Tech Stack:
