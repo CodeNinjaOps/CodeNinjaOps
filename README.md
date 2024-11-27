@@ -54,9 +54,7 @@ Feel free to explore my repositories, reach out for collaboration, or discuss to
 
 ### 🏆 Key Achievements & Contributions:
 - **Automation Expert**: Designed and implemented robust CI/CD pipelines that reduced deployment times by **40%**.
-- **Infrastructure Optimization**: Spearheaded a project to manage Kubernetes clusters for a high-availability environment, enhancing system reliability and scalability.
 - **Security-First Approach**: Developed security-enhanced scripts and configurations, integrating tools for vulnerability scanning and secure coding practices.
-- **Open Source Contributor**: Contributed to [specific open-source projects] (link if applicable) with a focus on DevOps tools and automation.
 - **DevSecOps Practice**: Active participation in **TryHackMe** to practice and incorporate best security practices into DevOps workflows.
 
 ---
