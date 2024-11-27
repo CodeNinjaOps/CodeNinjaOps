@@ -1,7 +1,3 @@
-Here's an updated version of your README that includes your **TryHackMe profile** and highlights your experience with **AWS services**:
-
----
-
 # 💫 About Me
 Hello, I'm Rangarajan Konar!
 
